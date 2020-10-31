@@ -107,9 +107,10 @@ c.tuike(name);
 System.out.println("学生编号:"+xs.getNumber());
 System.out.println("学生姓名:"+xs.getName());
 ```
-## 六.实验结果  
+## 六.实验结果及流程图  
 
-https://github.com/javauser-eng/Secondexperiment/blob/main/Experimental%20results.png
+https://github.com/javauser-eng/Secondexperiment/blob/main/Experimental%20results.png  
+https://github.com/javauser-eng/Secondexperiment/blob/main/Experimental%20flow%20chart.png
 
 ## 七.实验感想  
 1.通过这次实验我学习了子类继承的方法运用；  
