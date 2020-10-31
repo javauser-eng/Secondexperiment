@@ -13,7 +13,7 @@
 ### 说明：
 学校有“人员”，分为“教师”和“学生”，
 教师教授“课程”，学生选择“课程”。  
-从简化系统考虑，每名教师仅教授一门课程，每门课程的授课教师   &emsp;  
+从简化系统考虑，每名教师仅教授一门课程，每门课程的授课教师   
 也仅有一位，每名学生选仅选一门课程。
 
 ## 三.实验设计
@@ -35,7 +35,7 @@ public String getNumber() {
  this.number = number; 
  } 
 ```
-3.运用extends关键字额外创建了Personnel类的子类Student类和Teacher类。
+3.运用extends关键字额外创建了Personnel类的子类Student类和Teacher类。  
 &emsp;在继承父类方法的基础上，创建了course对象(课程)和taeching对象(授课)；
 ```
 class Student extends Personnel{ 
@@ -72,7 +72,7 @@ public void xuanke(String name){
     -------------------------------
 	}
 ```
-## 三.核心方法  
+## 四.核心方法  
 1.  这里调用Stuentds类中的对象；
 ```
 public class Test{
@@ -103,12 +103,12 @@ c.tuike(name);
 System.out.println("学生编号:"+xs.getNumber());
 System.out.println("学生姓名:"+xs.getName());
 ```
-## 四.实验结果  
+## 五.实验结果  
 
-https://github.com/javauser-eng/Secondexperiment/blob/main/QQ%E6%B5%8F%E8%A7%88%E5%99%A8%E6%88%AA%E5%9B%BE20201031144501.png
+https://github.com/javauser-eng/Secondexperiment/blob/main/Experimental%20results.png
 
-## 五.实验感想  
-1.通过这次实验我学习了public、private两种修饰符的作用区域；  
-2.练习了构建方法；  
-3.练习了多种类型的定义；  
-4.练习了包外调用。
+## 六.实验感想  
+1.通过这次实验我学习了子类继承的方法运用；  
+2.加深了构建方法的理解学习；  
+3.练习了get,set方法；  
+4.学习了传值和if、else方法。
