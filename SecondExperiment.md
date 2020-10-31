@@ -104,9 +104,9 @@ System.out.println("学生编号:"+xs.getNumber());
 System.out.println("学生姓名:"+xs.getName());
 ```
 ## 四.实验结果  
-```
 
-```  
+https://github.com/javauser-eng/Secondexperiment/blob/main/QQ%E6%B5%8F%E8%A7%88%E5%99%A8%E6%88%AA%E5%9B%BE20201031144501.png
+
 ## 五.实验感想  
 1.通过这次实验我学习了public、private两种修饰符的作用区域；  
 2.练习了构建方法；  
