@@ -30,7 +30,7 @@ class Personnel {
  private String sex; 
  private int age; 
 ```
-2.运用Get,Set方法实现值得传递关系； 
+2.运用Get,Set方法实现值的传递关系； 
 ```
 public String getNumber() { 
  return number; 
